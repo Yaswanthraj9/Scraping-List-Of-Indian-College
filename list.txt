@@ -1,0 +1,999 @@
+IIM Bangalore - Indian Institute of Management
+IIT Madras - Indian Institute of Technology - [IITM]
+Universal Business School - [UBS]
+IIT Delhi - Indian Institute of Technology [IITD]
+IIT Bombay - Indian Institute of Technology - [IITB]
+IIT Kharagpur - Indian Institute of Technology - [IITKGP]
+IIT Kanpur - Indian Institute of Technology - [IITK]
+IIT Roorkee - Indian Institute of Technology - [IITR]
+BITS Pilani (Pilani Campus)
+IIT Guwahati - Indian Institute of Technology - [IITG]
+All India Institute of Medical Sciences - [AIIMS]
+Indian Institute of Management - [IIMA]
+OP Jindal University - [OPJU]
+Post Graduate Institute of Medical Education & Research - [PGIMER]
+RNB Global University - [RNBGU]
+National Law School of India University - [NLSIU]
+Indian Agricultural Research Institute - [IARI]
+IIT Hyderabad - Indian Institute of Technology - [IITH]
+Lady Shri Ram College for Women - [LSR]
+Indian Institute of Management - [IIMC]
+College of Engineering, Anna University - [CEG]
+National Law University - [NLU]
+Indian Institute of Management - [IIM]
+Christian Medical College - [CMC]
+Sanjay Gandhi Postgraduate Institute of Medical Sciences - [SGPGIMS]
+School of Planning and Architecture - [SPA]
+St Stephen's College
+Banaras Hindu University - [BHU]
+NIT Trichy
+Kasturba Medical College - [KMC]
+Jawaharlal Institute of Post Graduate Medical Education and Research - [JIPMER]
+Tamil Nadu Agricultural University - [TNAU]
+Acharya NG Ranga Agricultural University - [ANGRAU]
+Indian Institute of Management - [IIMA]
+Post Graduate Institute of Medical Education & Research - [PGIMER]
+National Law School of India University - [NLSIU]
+Indian Agricultural Research Institute - [IARI]
+IIT Hyderabad - Indian Institute of Technology - [IITH]
+Lady Shri Ram College for Women - [LSR]
+Indian Institute of Management - [IIMC]
+College of Engineering, Anna University - [CEG]
+National Law University - [NLU]
+Indian Institute of Management - [IIM]
+Christian Medical College - [CMC]
+Sanjay Gandhi Postgraduate Institute of Medical Sciences - [SGPGIMS]
+School of Planning and Architecture - [SPA]
+St Stephen's College
+Banaras Hindu University - [BHU]
+NIT Trichy
+Kasturba Medical College - [KMC]
+Jawaharlal Institute of Post Graduate Medical Education and Research - [JIPMER]
+Tamil Nadu Agricultural University - [TNAU]
+Acharya NG Ranga Agricultural University - [ANGRAU]
+Institute of Liver and Biliary Sciences - [ILBS]
+King George's Medical University - [KGMU]
+Panjab University - [PU]
+Institute of Hotel Management, Catering and Nutrition - [IHM], Pusa
+NALSAR University of Law - [NALSAR]
+Maulana Azad Institute of Dental Sciences - [MAIDS]
+IIT BHU - Indian Institute of Technology
+Institute of Chemical Technology - [ICT]
+IIT Indore - Indian Institute of Technology - [IITI]
+Loyola College
+ISM Dhanbad - Indian Institute of Technology - [IITISM]
+School of Planning and Architecture - [SPA]
+Asian College of Journalism - [ACJ]
+Indian Institute of Mass Communication - [IIMC]
+Sri Ramachandra Institute of Higher Education and Research
+National Institute of Fashion Technology - [NIFT]
+Miranda House
+Hansraj College - [HRC]
+National Institute of Technology - [NIT]
+Fergusson College
+National Institute of Fashion Technology - [NIFT]
+National Institute of Fashion Technology - [NIFT]
+National Institute of Pharmaceutical Education and Research - [NIPER]
+Jawaharlal Nehru University - [JNU]
+Ramakrishna Mission Vivekananda Centenary College Rahara - [RKMVCC]
+Presidency College
+Punjab Agricultural University - [PAU]
+Institute of Hotel Management - [IHM]
+IIT Bhubaneswar - Indian Institute of Technology - [IITBBS]
+Institute of Hotel Management Catering Technology and Applied Nutrition - [IHM]
+Vellore Institute of Technology - [VIT University]
+Kirori Mal College - [KMC]
+St. Xavier's College
+Welcomgroup Graduate School of Hotel Administration - [WGSHA]
+Ramakrishna Mission Vidyamandira
+Manipal College of Dental Sciences - [MCODS]
+Manipal College of Dental Sciences - [MCODS]
+Nair Hospital Dental College
+Symbiosis Institute of Media and Communication - [SIMC]
+National Institute of Fashion Technology - [NIFT]
+Indian Institute of Engineering Science and Technology - [IIEST] Shibpur
+Anbil Dharmalingam Agricultural College and Research Institute - [ADAC&RI]
+Atma Ram Sanatan Dharma College - [ARSD]
+Ramakrishna Mission Residential College - [RKMRC]
+Indian Agricultural Statistics Research Institute - [IASRI]
+Indian Institute of Management - [IIM]
+Deen Dayal Upadhyaya College
+St John's Medical College
+Indian Veterinary Research Institute - [IVRI]
+Vinod Gupta School of Management - [VGSoM]
+Aligarh Muslim University - [AMU]
+PSG College of Arts and Science
+Xavier Institute of Communications - [XIC]
+University of Hyderabad - [UOH]
+Jamia Millia Islamia University-[JMI]
+XLRI - Xavier School of Management - [XLRI]
+Madras Christian College - [MCC]
+Mount Carmel College - [MCC]
+Kasturi Ram College of Higher Education
+Dyal Singh College - [DSC]
+National Dairy Research Institute - [NDRI]
+IIT Mandi- Indian Institute of Technology - [IITM]
+Indian Institute of Management - [IIMK]
+Lady Irwin College
+Christ University
+Institute Of Hotel Management Catering Technology & Applied Nutrition- [IHMH ]
+Institute of Hotel Management Catering Technology and Applied Nutrition - [IHM]
+The West Bengal National University of Juridical Sciences - [NUJS]
+PSGR Krishnammal College for Women
+AJK Mass Communication Research Centre
+Manipal Academy of Higher Education - [MAHE]
+National Institute of Fashion Technology - [NIFT]
+Department of Management Studies IIT Delhi - [DMS IITD]
+Trivandrum University College
+Government Dental College & Hospital
+D.G. Ruparel College of Arts Science and Commerce
+St Joseph's College - [SJC]
+Hindu College
+Mithibai College of Arts
+Institute of Hotel Management
+Institute of Hotel Management Catering Technology & Applied Nutrition - [IHM]
+Institute of Hotel Management, Catering & Nutrition - [IHM]
+School of Planning and Architecture - [SPAV]
+National Institute of Technology - [NITK]
+Maulana Azad Medical College - [MAMC]
+PD Patel Institute of Applied Sciences - [PDPIAS]
+Ethiraj College for Women
+Sri Guru Tegh Bahadur Khalsa College - [SGTB]
+Jamia Hamdard University
+Kasturba Medical College - [KMC]
+A B Shetty Memorial Institute of Dental Sciences - [ABSMIDS]
+Christian Dental College
+Mar Ivanios College
+Ramnarain Ruia Autonomous College
+St Xavier's College
+JSS Medical College and Hospital - [JSSMCH]
+Christian Medical College - [CMC]
+Shailesh J. Mehta School of Management, IIT Bombay - [SJMSOM]
+National Law University - [NLU]
+Scott Christian College
+IIT Patna - Indian Institute of Technology - [IITP]
+National Institute of Pharmaceutical Education and Research - [NIPER]
+Shaheed Rajguru College of Applied Sciences for Women
+Banarsidas Chandiwala Institute of Hotel Management & Catering Technology
+Dr.Ambedkar Institute of Hotel Management Catering and Nutrition - [IHM]
+Institute of Hotel Management Catering Technology and Applied Nutrition - [IHM]
+Savitribai Phule Pune University - [SPPU]
+Vardhman Mahavir Medical College - [VMMC]
+Acharya Narendra Dev College - [ANDC]
+National Institute of Fashion Technology - [NIFT]
+National Institute of Fashion Technology - [NIFT]
+National Institute of Fashion Technology - [NIFT]
+Pearl Academy West Campus
+Women's Christian College - [WCC]
+Guru Gobind Singh Indraprastha University - [GGSIPU]
+Government Arts College (Autonomous)
+Dr. R. Ahmed Dental College and Hospital
+Manipal College of Pharmaceutical Sciences - [MCOPS]
+Dr DY Patil Vidyapeeth - [DPU]
+Govt. Dental College & Hospital - [GDCH]
+Army Institute of Hotel Management & Catering Technology - [AIHMCT]
+Kristu Jayanti College - [KJC]
+Siksha 'O' Anusandhan University - [SOA]
+SRM Institute of Science and Technology - [SRMIST]
+Thiagarajar College
+Symbiosis Law School - [SLS]
+Delhi University - [DU]
+Govind Ballabh Pant University of Agriculture and Technology
+SDM College of Dental Sciences and Hospital - [SDMCDSH] Sattur
+Thapar Institute of Engineering and Technology - [Thapar University]
+Sacred Heart College - [SH]
+Indian Institute of Journalism and New Media - [IIJNM]
+Department of Management Studies, Indian Institute of Technology - [DOMS]
+Rajagiri College of Social Sciences - [RCSS]
+Faculty of Law Jamia Millia Islamia University
+Gujarat National Law University - [GNLU]
+Daulat Ram College - [DRC]
+Rajiv Gandhi National University of Law - [RGNUL]
+Goa College of Pharmacy
+K J Somaiya College of Arts & Commerce - [KJSAC]
+Institute of Hotel Management - [IHM]
+National Law Institute University - [NLIU]
+Management Development Institute - [MDI]
+Maitreyi College
+B.K Birla College Of Arts Science & Commerce
+Indian Law Institute - [ILI]
+Al- Ameen College of Pharmacy
+^CRamjas College
+Veterinary College and Research Institute - [VCRI]
+Dr Ram Manohar Lohiya National Law University - [RMLNLU]
+Andhra University, Dr. B. R. Ambedkar College of law
+University College of Medical Sciences - [UCMS]
+Indian School of Business - [ISB]
+St. Joseph's College
+Dayanand Medical College and Hospital - [DMCH]
+Jai Hind College - [JHC]
+Kishinchand Chellaram College - [KC College]
+Loyola Academy Degree and PG College
+Indian Institute of Management - [IIMU]
+Times School of Journalism- [TSJ]
+Amity School of Communication - [ASCO]
+Saveetha Medical College
+Andhra University, College of Pharmaceutical Sciences
+Jesus and Mary College - [JMC]
+University of Calcutta
+Symbiosis Institute of Computer Studies and Research - [SICSR]
+IIT Gandhinagar - Indian Institute of Technology - [IITG]
+Annamalai University - [AU]
+National Institute of Fashion Technology - [NIFT]
+Ramaiah Medical College
+Indian Institute of Management - [IIM]
+Queen Mary's College
+Shyam Lal College - [SLC]
+College of Veterinary and Animal Sciences - [CVAS]
+Regional Institute of Medical Sciences
+Sri Venkateswara Institute of Medical Sciences - [SVIMS]
+Lady Brabourne College - [LBC]
+Rajiv Gandhi Institute of Information Technology and Biotechnology - [RGITBT]
+Presidency University
+DY Patil University
+Saveetha Dental College & Hospital
+Bishop Heber College - [BHC]
+Sophia College for Women
+St. Aloysius College
+School of Architecture and Planning, Anna University - [SAP]
+JSS College of Pharmacy - [JSSCOP]
+Department of Management Studies, IIT Madras - [DoMS IIT Madras]
+Andhra Loyola College - [ALC]
+Kothiwal Dental College and Research Centre - [KDCRC]
+Institute of Hotel Management - [IHM]
+Narsee Monjee College of Commerce and Economics
+SP Jain Institute of Management and Research - [SPJIMR]
+Institute of Hotel Management - [IHM]
+NIT Warangal
+Great Lakes Institute of Management
+Mahatma Phule Krishi Vidyapeeth - [MPKV]
+Manorama School of Communication - [MASCOM]
+Indian Institute of Management - [IIM]
+Faculty of Law, University of Delhi
+Amity School of Fashion Technology - [ASFT]
+Jamnalal Bajaj Institute of Management Studies -[JBIMS]
+Symbiosis Institute of Business Management - [SIBM]
+National Institute of Fashion Technology - [NIFT]
+RA Podar College of Commerce and Economics
+Faculty of Law, Banaras Hindu University
+Institute of Hotel Management Catering Technology & Applied Nutrition - [IHM]
+National Institute of Pharmaceutical Education And Research - [NIPER-A]
+NSHM Knowledge Campus
+Gargi College
+Sri Venkateswara College - Delhi
+Jyoti Nivas College - [JNC]
+The Oxford College of Science - [TOCS]
+National Institute of Technology - [NITC]
+Bethune College
+Maharshi Dayanand University - [MDU]
+Delhi College of Arts and Commerce - [DCAC]
+Government Dental College & Hospital
+GLS Institute of Computer Application
+Armed Forces Medical College - [AFMC]
+Narsee Monjee Institute of Management Studies - [NMIMS Deemed to be University]
+Ayya Nadar Janaki Ammal College - [ANJA]
+ILS Law College - [ILS]
+JSS Academy of Higher Education & Research
+Industrial and Management Engineering, IIT Kanpur- [IME IIT]
+IIT Ropar - Indian Institute of Technology - [IITR]
+St. Xavier's College - [SXC]
+Apeejay Institute of Mass Communication - [AIMC]
+Indian Institute of Space Science and Technology - [IIST]
+Kongunadu Arts and Science College
+Scottish Church College
+St Ann's College for Women
+Symbiosis Centre for Management and Human Resource Development - [SCMHRD]
+Institute of Hotel Management - [IHM]
+Shri Ram College of Commerce - [SRCC]
+Pearl Academy
+HR College of Commerce and Economics
+Visvesvaraya National Institute of Technology - [VNIT]
+Grant Medical College and Sir J. J. Group of Hospitals
+St. Joseph's College of Commerce - [SJCC]
+Indian Institute of Management - [IIM]
+Amrita School of Dentistry
+Army College of Dental Sciences - [ACDS]
+I.T.S Dental College
+Sinhgad Dental College and Hospital - [SDCH]
+Dr. Ziauddin Ahmad Dental College
+Bangalore Medical College and Research Institute - [BMCRI]
+Institute of Technical Education and Research - [ITER]
+Seth GS Medical College - [GSMC]
+Indian Institute of Management - [IIM]
+M.O.P. Vaishnav College for Women
+Mahatma Gandhi University - [MGU]
+Central Institute of Fisheries Education - [CIFE]
+Shobhaben Pratapbhai Patel School of Pharmacy & Technology Management - [SPPSPTM]
+Shivaji College
+St Thomas' College
+Birla Institute of Technology - [BIT Mesra]
+Bharati Vidyapeeth University, Institute of Hotel Management and Catering Technology - [IHMCT]
+Sri Guru Ram Das Institute of Dental Sciences and Research
+Delhi Technological University - [DTU]
+St Andrew's College of Arts Science and Commerce
+Government Medical College and Hospital - [GMCH]
+Modern College of Arts Science and Commerce - [MCASC] Shivajinagar
+Maharaja Agrasen College - [MAC]
+IIM Kashipur
+Sibar Institute of Dental Sciences
+Tamilnadu Government Dental College and Hospital - [TNGDCH]
+St. Albert's College
+Symbiosis Institute of Design - [SID]
+Army Institute of Fashion and Design - [AIFD]
+JD Institute of Fashion Technology
+Kolkata Medical College
+AECS Maruti College of Dental Sciences and Research Centre
+Mumbai University - [MU]
+Amity University
+Osmania Medical College - [OMC]
+SRM Engineering College
+International Management Institute - [IMI]
+Calicut University - [CU]
+Gandhi Medical College
+SSN College of Engineering - [SSNCE]
+St. Mira's College for Girls
+MICA - The School of Ideas
+CMS College of Science and Commerce
+Sri Krishna Arts and Science College
+Indian Institute of Management - [IIMR]
+Gurunanak Institute of Dental Science and Research
+National Institute of Industrial Engineering - [NITIE]
+Sydenham College of Commerce & Economics
+Bharati Vidyapeeth New Law College -[NLC]
+Jamal Mohamed College - [JMC]
+Sri Ramakrishna Mission Vidyalaya College of Arts and Science
+Sri Ramakrishna College of Arts and Science - [SRCAS]
+Principal K.M. Kundnani College of Pharmacy - [KMKCP]
+SASTRA University
+Pearl Academy South Campus
+Mahatma Gandhi Institute of Medical Sciences - [MGIMS]
+Institute of Hotel Management Catering Technology & Applied Nutrition - [IHM]
+Bharati Vidyapeeth College of Hotel and Tourism Management Studies  - [BVCHTMS] Navi Mumbai
+International Institute of Information Technology - [IIIT]
+Institute of Hotel Management and Catering - [IHMC]
+Xavier's Institute of Computer Application
+Amrita School of Medicine
+DAV Centenary Dental College
+Kamla Nehru College for Women - [KNC]
+Banasthali Vidyapith
+BMS School of Architecture - [BMSSA]
+ITS Dental College - [ITSDC]
+Himalayan Pharmacy Institute
+Mohamed Sathak A.J. College of Pharmacy
+Shri HK Arts College
+Daswani Dental College and Research Center
+National Institute of Technology - [NIT]
+Virudhunagar Hindu Nadar's Senthikumara Nadar College - [VHNSNC]
+St. Berchmans College - [SBC]
+Era's Lucknow Medical College and Hospital
+KIIT School of Management - [KSOM]
+Bapuji Dental College and Hospital - [BDCH]
+SRM Institute of Hotel Management
+Dr Rajendra Prasad Government Medical College - [RPGMC]
+MNNIT Allahabad - Motilal Nehru National Institute of Technology - [MNNIT]
+Prin. L. N. Welingkar Institute of Management Development & Research - [WeSchool]
+SRM College of Pharmacy
+KS Hegde Medical Academy - [KSHEMA]
+St Teresa's College (Autonomous)
+Lady Hardinge Medical College - [LHMC]
+KPB Hinduja College of Commerce - [KPB]
+Indian Institute of Foreign Trade - [IIFT]
+Manipal Institute of Technology - [MIT]
+Vidya Institute of Fashion Technology - [VIFT]
+Madras Medical College - [MMC]
+Sikkim Manipal Institute of Medical Sciences - [SMIMS]
+P.S.G College of Technology - [PSGCT]
+School of Law, Christ University - [SLCU]
+Jawaharlal Nehru Technological University - [JNTUH]
+Jadavpur University - [JU]
+Kelkar Education Trust's V.G. Vaze College of Arts Science and Commerce
+Manipal School of Architecture and Planning - [MSAP]
+National Institute of Management - [NIM]
+Dayanand Sagar College of Dental Sciences
+Vivekananda Degree College
+Lokmanya Tilak Municipal Medical College-[LTMMC]
+Hidayatullah National Law University - [HNLU]
+University college of Law, Osmania University
+National Institute of Technology - [NIT]
+Karnavati School of Dentistry, Karnavati University - [KSD]
+Birsa Agricultural University - [BAU]
+Institute of Hotel Management, Catering Technology & Applied Nutrition - [IHM]
+Institute of Hotel Management Catering and Nutrition - [IHM]
+Amity University
+Institute of Medical Sciences - [IMS BHU]
+Department of Management Studies, Indian Institute of Technology (Indian School of Mines)
+Sathyabama Institute of Science and Technology
+St. Gregorios Dental College - [SGDC]
+Madras School of Social Work - [MSSW]
+Rizvi College of Architecture
+Poona College of Pharmacy
+T. A. Pai Management Institute - [TAPMI]
+Farooqia Dental College
+Kalinga Institute of Industrial Technology - [KIIT]
+Institute of Pharmacy, Nirma University
+Byramjee Jeejeebhoy Government Medical College - [BJMC]
+Institute of Post Graduate Medical Education And Research - [IPGMER]
+M.E.S. Abasaheb Garware College
+National University of Advanced Legal Studies - [NUALS]
+Department of Commerce, University of Delhi
+Pondicherry University - [PU]
+School of Planning and Architecture, University of Mysore - [SPA]
+Army College of Medical Science - [ACMS]
+Dr. N.G.P. Arts and Science College - [DrNGPASC]
+College of Engineering  - [COEP]
+B. J. Medical College - [BJMC]
+FMS Delhi
+Guru Nanak College
+ICFAI Business School - [IBS]
+Maharaja Sayajirao University of Baroda - [MSU]
+IIT Jodhpur - Indian Institute of Technology - [IITJ]
+PSG Institute of Medical Sciences and Research - [PSGIMSR]
+Goenka College of Commerce and Business Administration
+KLE University
+All India Institute of Medical Sciences - [AIIMS]
+Sri Ramachandra Medical College
+Mahatma Gandhi College
+Dr DY Patil Dental College & Hospital - [DYPDCH]
+NIT Silchar
+National Law University Odisha - [NLUO]
+R. G. Kar Medical College and Hospital - [RGKMCH]
+Jawaharlal Nehru Architecture and Fine Arts University - [JNAFAU]
+K.J. Somaiya Medical College & Research Centre - [KJSMC]
+K L University - [KLU]
+Dr DY Patil Medical College Hospital and Research Centre - [DYPMC]
+Malaviya National Institute of Technology - [MNIT]
+University College of Law Bangalore University
+Loyola Institute of Business Administration - [LIBA]
+ICFAI Law School
+M.S. Ramaiah College of Law - [MSRCL]
+Pt Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences - [PGIMS]
+Government Medical College and Hospital
+IMS Design and Innovation Academy - [DIA]
+NIFT TEA College of Knitwear Fashion
+Manav Rachna Dental College - [MRDC]
+Chandigarh Institute of Hotel Management and Catering Technology - [CIHMCT]
+Lloyd Law College
+Sushant School of Art and Architecture - [SSAA]
+Farook College
+Indraprastha Institute of Information Technology - [IIITD]
+Jodhpur Dental College and General Hospital
+Army Institute of Law - [AIL]
+Pondicherry Institute of Medical Sciences - [PIMS]
+Shri Ram Murti Smarak Institute of Medical Science - [SRMS IMS]
+Belagavi Institute of Medical Sciences - [BIMS]
+MGM Medical College
+Thiagarajar College of Engineering - [TCE]
+Chatrapati Shahuji Maharaj Shikshan Sanstha's Dental College
+Cochin University of Science and Technology, School of Legal Studies - [SLS]
+Bharati Vidyapeeth Deemed University, Medical College School of Optometry
+Government Medical College
+Veer Surendra Sai Institute of Medical Sciences and Research - [VIMSAR]
+Government Home Science College
+Defence Institute of Advanced Technology - [DIAT]
+Brihan Maharashtra College of Commerce - [BMCC]
+Jawahar Lal Nehru Medical College - [JNMC]
+D Y Patil Medical College
+Government Law College - [GLC]
+Institute of Law, Nirma University - [ILNU]
+Sardar Vallabhbhai National Institute of Technology - [SVNIT]
+Vellalar College for Women
+KIIT School of Law - [KSOL]
+Shri Guru Ram Rai Institute of Medical and Health Sciences
+Sri Manakula Vinayagar Medical College and Hospital - [SMVMCH]
+Institute of Dental Science
+Andhra University, College of Engineering - [AUCE]
+Symbiosis College of Arts and Commerce
+Chaudhary Charan Singh University - [CCS]
+Mulund College of Commerce
+T John College - [TJC]
+Chandigarh University - [CU]
+St. Xavier's College (Autonomous)
+FORE School of Management - [FSM]
+National Institute of Technology - [NIT]
+The Oxford Dental College and Hospital
+St Xaviers College
+Indian Maritime University - [IMU]
+Pravara Rural College of Pharmacy (Diploma)
+CU Shah Arts College
+Anna University - [AU]
+CMR University, School of Legal Studies - [SLS]
+Kalasalingam Academy of Research and Education
+Keshav Mahavidyalaya
+Amity Institute of Architecture and Planning
+Coorg Institute of Dental Sciences - [CIDS]
+Amity Law School - [ALS]
+Indore Institute of Law - [IIL]
+Maulana Azad National Institute of Technology  - [MANIT]
+Maharani Lakshmi Ammanni College for Women - [MLACW]
+Institute of Management Studies, Banaras Hindu University
+Institute of Management, Nirma university
+College of Dental Sciences
+R V College of Engineering - [RVCE]
+Umiya Arts and Commerce College for Girls
+Guru Nanak Institute of Hotel Management - [GNIHM]
+Vivekananda Institute of Professional Studies - [VIPS]
+ISF College of pharmacy
+Amity Global Business School - [AGBS]
+Wilson College
+University Institute of Legal Studies, Panjab University
+Institute of Management Technology - [IMT]
+Alliance University
+Department of Laws Panjab University
+Ramaiah Institute of Technology - [RIT]
+Bombay College of Pharmacy - [BCP]
+University School of Law, Gujarat University - [USLGU]
+NSHM Knowledge Campus
+RV College of Architecture - [RVCA]
+Sri Hasanamba Dental College and Hospital
+Bangalore Institute of Legal Studies - [BILS]
+D.E.S's Shri. Navalmal Firodia Law College - [DES SNFLC]
+Delhi Institute of Pharmaceutical Sciences and Research - [DIPSAR]
+Department of Management Studies, Anna University - [DOMS]
+International Institute of Information Technology - [IIIT-B]
+Tamil Nadu Dr Ambedkar Law University - [TNDALU]
+Faculty of Law University of Calcutta
+Maharajah's Institute of Medical Sciences - [MIMS]
+SVS Medical College
+Government Law College
+International Management Institute- [IMI]
+XIM University
+V. O. Chidambaram College
+Kasturba Gandhi Degree and PG College for Women
+Nehru Arts and Science College -[NASC]
+Narsee Monjee Institute of Management Studies - [NMIMS Deemed to be University]
+Dr SM Naqui Imam Dental College and Hospital - [DSMNIDCH]
+National Institute of Technology - [NIT] Meghalaya
+IFMR Graduate School of Business - [IFMR GSB]
+Newman College
+RR Nursing Institutions
+Indraprastha College for Women - [IP]
+International Institute of Hotel Management - [IIHM]
+University Business School, Panjab University - [UBS]
+Coimbatore Institute of Technology - [CIT]
+Maharashtra Institute of Medical Education and Research - [MIMER]
+Dr. Rajendra Prasad Central Agricultural University
+Smt. NHL Municipal Medical College
+Institute of Dental Sciences - [IDS]
+Nizam College
+Lady Doak College
+Guru Nanak Dev Dental College & Research Institute
+Dr VRK Women's Medical College
+BMS College of Engineering - [BMSCE]
+Goa Institute of Management - [GIM]
+Konaseema Institute of Medical Sciences & Research Foundation - [KIMS]
+Sri Aurobindo Institute of Medical Sciences - [SAIMS]
+Law College Dehradun - [LCD]
+The National Degree College
+National Institute of Technology - [NIT]
+Elphinstone College
+National Post Graduate College
+VM Salgaocar College of Law
+KLE University's College of Pharmacy
+T.K.M. College of Arts and Science - [TKMCAS]
+Swami Devi Dyal Hospital and Dental College - [SDDHDC]
+JD Birla Institute - [JDBI]
+Institute of Rural Management - [IRMA]
+C. U. Shah Medical College - [CUSMC]
+Gandhi Dental College
+College of Engineering
+Dr. SNS Rajalakshmi College of Arts and Science
+Badruka College of Commerce and Arts - [BCCA]
+PES Institute of Medical Sciences and Research - [PESIMSR]
+CT Institute of Hotel Management
+HL College of Commerce - [HLCC]
+Bharathidasan Institute of Management - [BIM]
+Bharati Vidyapeeth University, Institute of Management and Entrepreneurship Development - [IMED]
+K J Somaiya Institute of Management
+Women's Christian College - [WCC]
+Karunya Institute of Technology and Sciences - [Karunya Deemed University]
+Narsinhbhai Patel Dental College and Hospital
+Chitkara School of Hospitality -[CSH]
+Junagadh Agricultural University
+ICFAI University
+University Institute of Tourism and Hospitality Management, Chandigarh University - [UITHM]
+Loreto College
+A.V. College of Arts Science and Commerce - [AV College]
+KLE Society's Law College
+Hamdard Institute of Medical Sciences and Research - [HIMSR]
+St Joseph's College Devagiri
+BRS Dental College and General Hospital
+National Institute of Technology - [NIT]
+MES College of Arts, Commerce & Science
+Telangana Mahila Viswavidyalayam
+South Calcutta Law College
+Dr. Pinnamaneni Siddhartha Institute of Medical Sciences & Research Foundation - [Dr.PSIMS & RF]
+Fatima Mata National College
+Indian Institute of Information Technology Design and Manufacturing - [IIITDM]
+Amity University
+Kumaraguru College of Technology - [KCT]
+Birla Institute of Management Technology - [BIMTECH]
+Kamla Nehru Mahavidyalaya
+Pondicherry Engineering College - [PEC]
+Lala Lajpat Rai College of Commerce and Economics
+Geeta Institute of Law - [GIL]
+Global Institute of Fashion Technology - [GIFT]
+Gian Jyoti Institute of Management and Technology - [GJIMT]
+Dibrugarh University
+Saveetha School of Law
+Maratha Mandal College of Pharmacy
+Alluri Sitarama Raju Academy of Medical Sciences - [ASRAM]
+Punjab Engineering College University of Technology - [PEC]
+Manikchand Pahade Law College
+Indian Institute of Management and Commerce - [IIMC]
+K L University Business School - [KLUBS] 
+Seshadripuram College
+Indian Institute of Forest Management - [IIFM]
+Siddaganga Institute of Technology - [SIT]
+Great Eastern Medical School and Hospital
+Smt. B.K. Shah Medical Institute and Research Centre
+Atal Bihari Vajpayee Indian Institute of Information Technology and Management - [ABVIIITM]
+Northern India Institute of Fashion Technology - [NIIFT]
+Jaipuria Institute of Management
+University School of Management Studies, Guru Gobind Singh Indraprastha University - [USMS IPU]
+HKE Society SNijalingappa Institute of Dental Science and Research
+SJM College of Pharmacy
+Jaypee Institute of Information Technology University - [JIIT]
+Mehr Chand Mahajan Dayanand Anglo Vedic College for Women - [MCM DAV]
+Sinhgad Law College
+Apeejay Stya University - [ASU]
+Bapatla College of Pharmacy - [BCOP]
+St John's Pharmacy College
+Indian Institute of Information Technology - [IIIT]
+Prestige Institute of Management - [PIMG]
+Sri Guru Gobind Singh College of Pharmacy
+Pondicherry Institute of  Hotel Management & Catering Technology - [PIHMCT]
+Rabindranath Tagore University - [RNTU]
+Holy Cross College  (Autonomous)
+Government Dental College
+University College of Engineering, Osmania University - [UCE]
+Farooqia College of Pharmacy - [FCP]
+Guwahati College of Architecture and Planning
+Sir JJ College of Architecture - [SJJCA]
+Dr DY  Patil College of Agriculture Business Management
+University School of Business, Chandigarh University - [USB]
+Faculty of Management Sciences and Liberal Arts, Shoolini University
+SD College of Pharmacy
+AISSMS College of Hotel Management & Catering Technology - [AISSMS CHMCT]
+Dr. YSR National Institute of Tourism and Hospitality Management - [NITHM]
+Hotel & Catering Management Institute - [HCMI]
+Dr. C.V. Raman University - [CVRU]
+Sam Higginbottom University of Agriculture Technology and Sciences - [SHUATS]
+International Management Institute - [IMI]
+Oriental School of Hotel Management Lakkidi
+Institute of Management Technology - [IMT]
+Jodhpur Institute of Hotel Management - [JIHM]
+Darshan Dental College and Hospital
+Dayalbagh Educational Institute Faculty of Engineering
+Sri Guru Gobind Singh College of Commerce
+Jaipuria Institute of Management
+Y. B. Chavan College of Pharmacy
+HKE Society's College of Pharmacy
+NEF Law College
+SVS School of Dental Sciences
+B.R. Nahata College of Pharmacy - [BRNCP]
+Shri Mata Vaishno Devi University - [SMVDU]
+Jagan Institute of Management Studies - [JIMS] Rohini
+Woxsen School of Business - [WSB]
+St George College of Management Science and Nursing
+St. Xavier's College
+Ludhiana College of Engineering and Technology
+Gaya College
+Bharati Vidyapeeth Dental College and Hospital
+Bhojia Dental College and Hospital
+Institute of Information Technology & Management - [IITM]
+Institute of Management Technology - [IMT]
+Jaipuria Institute of Management
+Annex College
+Janki Ji Institute of Management and Technology - [JIMT]
+Poddar Group of Institutions
+IIMT College of Management
+Fairfield Institute of Management and Technology - [FIMT]
+INMANTEC Institutions
+Shikshapeeth College of Management and Technology - [SCMT]
+Punjab Institute of Management and Technology - [PIMT]
+Sri Bhagawan Mahaveer Jain College (Evening), V V Puram Campus - [SBMJC]
+National Institute of Technology - [NIT]
+Ewing Christian College - [ECC]
+Indira Gandhi National Open University - [IGNOU]
+R.C. Institute of Technology - [RCIT]
+Rajeev Gandhi College
+Lucky Institute of Professional Studies
+Rashtrasant Tukadoji Maharaj Nagpur University - [RTMNU]
+Jagdish Sheth School of Management - [JAGSOM]
+CHM Institute of Hotel and Business Management
+MP Institute of Management and Computer Application
+Kurukshetra University - [KUK]
+LJ Institute of Computer Application - [LJICA]
+International Institute of Management Media and I.T. - [IIMMI]
+Swami Vivekanand College of Computer Science - [SVCCS]
+Priyadarshini Institute of Architecture and Design Studies- [PIADS]
+Jai Narain Vyas University - [JNVU]
+St Bede's College
+Navgujarat College of Computer Applications
+KR Mangalam University
+Osmania University - [OU]
+Teerthanker Mahaveer University - [TMU]
+Mahatma Jyoti Rao Phoole University - [MJRPU]
+Braj Institute of Management and Technology - [BRAJ IMT]
+Presidency College of Education and Technology
+GITAM
+College of Computer Sciences
+AJ Aviation Academy
+Greenway Institute of Management Studies - [GIMS]
+Institute of Management and Technology - [IMT]
+The New College
+Shrimad Rajchandra Institute of Management and Computer Application
+Lachoo Memorial College Science and Technology
+Govindam Business School
+Mewar Institute of Management
+Tapindu Institute of Higher Studies - [TIHS]
+Sri Venkateswara University - [SVU]
+Mepco Schlenk Engineering College
+Dr Babasaheb Ambedkar Open University - [BAOU]
+KM Shah Dental College and Hospital
+George Group of Colleges
+DG Vaishnav College - [DDGDVC]
+Birla Institute of Technology - [BIT]
+Sahibzada Ajit Singh Group of Institutions
+Ram Krishna Dwarika College - [RKD]
+Ramaiah College of Arts, Science and Commerce - [RCASC]
+Christ College
+Chanderprabhu Jain College of Higher Studies & School of Law
+ASM's College of Commerce, Science & Information Technology - [CSIT]
+Karpagam Academy of Higher Education - [KAHE]
+NIMS University
+Christ College Irinjalakuda
+Sri Jayadev College of Pharmaceutical Sciences - [SJCPS]
+Bishop Vayalil Memorial Holy Cross College
+Dr GR Damodaran College of Science - [GRDCS]
+Sri Venkateswara University College of Engineering
+Vels Institute of Science, Technology & Advanced Studies
+Lokmanya College of Computer Applications
+Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya - [SCSVMV University]
+Dr. BMN College of Home Science
+Institute of Management Education Group of Colleges - [IME]
+Doraha Institute of Management and Technology - [DIMT]
+Dronacharya Institute of Management and Technology - [DIMT]
+Indus International University - [IIU]
+Arya Post Graduate College
+CMJ University
+Rajiv Academy for Technology and Management - [RATM]
+Nirmala Group of Institutions - [NGI]
+Mangalayatan University - [MU]
+Ahmedabad University
+Kakatiya University - [KU]
+Navrachana University - [NUV]
+Modern College of Professional Studies - [MCPS]
+Christ College
+BIMT Group of Institutions
+Government College of Technology - [GCT]
+Brij Mohan Institute of Management and Technology - [BIMT]
+St. Mary's College Sulthan Bathery
+Panchavati College of Management & Computer Science - [PCMCS]
+NMKRV College for Women
+IIHMR University
+School of Management, SRM IST
+Lal Bahadur Shastri Institute of Management - [LBSIM]
+Amity Business School - [ABS]
+Chitkara University, Chitkara Business School - [CBS]
+Rajagiri Centre for Business Studies - [RCBS]
+Sydenham Institute of Management Studies, Research & Entrepreneurship Education - [SIMSREE]
+National Institute of Agricultural Extension Management - [MANAGE]
+Asia Pacific Institute of Management - [AIM]
+Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT]
+Symbiosis Institute of International Business - [SIIB]
+Balaji Institute of Modern Management - [BIMM]
+Institute of Public Enterprise - [IPE]
+IILM Institute for Business & Management [IILM-IBM]
+SIES School of Business Studies - [SIES SBS]
+PSG Institute of Management - [PSGIM]
+Army Institute of Technology - [AIT]
+AXIS Institute of Architecture - [AIA]
+Prin. L.N. Welingkar Institute of Management Development & Research- [WeSchool]
+Dr. Bhanuben Nanavati College of Pharmacy
+Narayana Dental College and Hospital - [NDCH]
+Smt Kishoritai Bhoyar College of Pharmacy
+SDM Institute for Management Development - [SDMIMD]
+Xavier Institute of Management and Entrepreneurship - [XIME]
+ITM Business School Kharghar - [ITM]
+Indus Business Academy - [IBA]
+SR College of Pharmacy
+Bharati Vidyapeeth Deemed University - [BVDU]
+Indian Institute of Social Welfare and Business Management - [IISWBM]
+Gandhi Institute of Fashion and Textile - [GIFT]
+Symbiosis Institute of Operations Management - [SIOM]
+Symbiosis Institute of Digital and Telecom Management - [SIDTM]
+SCMS Cochin School of Business
+Anna Adarsh College for Women
+IILM Institute for Higher Education
+The Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences - [NGSMIPS]
+Symbiosis Institute of Business Management - [SIBM]
+GITAM School of Business
+AIMS Institutes
+Nagaland University
+Prestige Institute of Management and Research - [PIMR]
+Institute of Management Studies - [IMS]
+Pune Institute of Business Management - [PIBM]
+P Wadhwani College of  Pharmacy
+Symbiosis Institute of Business Management - [SIBM]
+Gokhale Memorial Girls' College
+Hindustan Institute of Technology and Science - [HITS]
+Dhule Charitable Society's Institute of Pharmacy
+Vaikunth Mehta National Institute of Co-Operative Management - [VAMNICOM]
+O.P. Jindal Global University, Jindal Global Business School - [JGBS]
+Fortune Institute of International Business - [FIIB]
+N. L. Dalmia Institute of Management Studies and Research - [NLDIMSR]
+National Bureau of Fish Genetic Resources - [NBFGR]
+C. V. Raman Global University
+International School of Business and Media - [ISB&M] Nande
+Sugarcane Breeding Institute - [SBI]
+Xavier Institute of Social Service - [XISS]
+Balaji Institute of Management and Human Resource Development - [BIMHRD]
+Justice Basheer Ahmed Sayeed  College For Women - [JBAS]
+Apeejay School of Management - [ASM]
+Central Institute of Temperate Horticultural - [CITH]
+I.K. Gujral Punjab Technical University - [IKG-PTU]
+GL Bajaj Institute of Management and Research - [GLBIMR]
+Institute of Hotel Management Catering Technology and Applied Nutrition - [IHM]
+NIMAS
+State Institute of Hotel Management - [IHM]
+Xavier Institute of Management and Entrepreneurship - [XIME]
+Institute of Rural Management - [FMS-IRM]
+Dr RG Bhoyar Institute of Pharmaceutical Education and Research
+Faculty of Management Studies, Manav Rachna International Institute of Research and Studies
+Jawaharlal Nehru Krishi Vishwa Vidyalaya - [JNKVV]
+Institute of Technology and Science - [I.T.S]
+Sri Krishna College of Engineering and Technology - [SKCET]
+Abeda Inamdar Senior College
+IIEBM Indus Business School - [IIEBM IBS]
+Government College
+SIES College of Arts Science and Commerce - [SIES ASCS]
+Vishnu Dental College - [VDC]
+Jagannath International Management School - [JIMS] Kalkaji
+Government Jamuna Prasad Verma Post Graduate Arts and Commerce College
+JK Business School - [JKBS]
+IMS Unison University - [IUU]
+Kongu Engineering College - [KEC]
+DY Patil University's School of Management - [DYPUSM]
+Tezpur University - [TU]
+SDM Law College Kodialbail
+Vignan's Foundation for Science, Technology, and Research
+SPC Education Center
+Symbiosis Centre for Information Technology - [SCIT]
+Dhenkanal Law College
+Khalsa College
+Jaipuria School of Business - [JSB]
+Neville Wadia Institute of Management Studies and Research - [NWIMSR]
+International School of Informatics and Management - [IIIM]
+Bannari Amman Institute of Technology - [BIT]
+Regional College of Management - [RCM]
+BBK DAV College for Women
+AXIS Institute of Fashion Technology - [AIFT]
+Appasaheb Birnale College of Pharmacy
+Indira Gandhi Krishi Vishwavidyalaya - [IGKV]
+Directorate of Sorghum Research - [DSR]
+Ajay Kumar Garg Institute of Management - [AKGIM]
+Bharati Vidyapeeth Institute of Management Studies & Research - [BVIMSR]
+College of Veterinary and Animal Sciences - [RAJUVAS]
+Shri Ram Murti Smarak International Business School - [SRMS IBS]
+Institute of Engineering and Management - [IEM]
+Sona College of Technology
+Saintgits Institute of Management - [SIM]
+Kamadhenu College of Arts & Science
+MIT College of Management - [MITCOM] Kothrud
+Institute of Management Studies - [IMS]
+Balaji Institute of Technology and Management - [BITM]
+Chaitanya Bharathi Institute of Technology - [CBIT]
+LM College of Pharmacy - [LMCP]
+Jalpaiguri Law College
+National Research Centre on Mithun - [NRCM]
+Indian Institute of Sugarcane Research - [IISR]
+Calcutta Business School - [CBS]
+Yashwantrao Chavan Maharashtra Open University- [YCMOU]
+International Institute of Management Studies - [IIMS]
+Vanavarayar Institute of Agriculture
+Sairam Institute of Management Studies - [SIMS]
+SVPM's College of Pharmacy  Malegaon
+Balaji Institute of International Business - [BIIB]
+Jaipuria Institute of Management
+Anand Niketan College of Agriculture
+Kirloskar Institute of Advanced Management Studies - [KIAMS]
+RV Institute of Management - [RVIM]
+New Horizon College of Engineering - [NHCE]
+Tamil Nadu Veterinary and Animal Sciences University - [TANUVAS]
+Veermata Jijabai Technological Institute - [VJTI]
+JNTUK University College of Engineering, Kakinada
+Aurora's Business School Panjagutta
+Mangalayatan University, Institute of Business Management - [IBM]
+Ramniranjan Jhunjhunwala College - [R.J.C]
+Graphic Era University, School of Engineering and Technology - [GEU]
+T.N.B. College
+Jaipuria Institute of Management
+IES's Management College and Research Centre - [IES MCRC]
+Chitkara University, Chitkara School of Planning and Architecture - [CSPA]
+Kirloskar Institute of Advanced Management Studies - [KIAMS]
+Institute of Management and Information Science - [IMIS]
+Dr BR Ambedkar National Institute of Technology - [NIT]
+IIKM Business School
+PSG College of Pharmacy - [PSGCP]
+International School of Business and Research - [ISBR Business School]
+Dhruva College of Management - [DCM]
+ICBM School of Business Excellence - [ICBM-SBE]
+Vivekananda Institute of Management Studies - [VIMS]
+Mar Thoma College
+GH Raisoni College of Engineering - [GHRCE]
+Mukesh Patel School of Technology Management and Engineering - [MPSTME]
+Sardar Patel Institute of Technology - [SPIT]
+Faculty of Engineering and Technology, Jain University - [FET JU]
+Shri Ramdeobaba College of Engineering and Management - [RCOEM]
+Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology - [VNR VJIET]
+Eastern Institute for Integrated Learning In Management - [EIILM]
+PSGVP Mandal's College of Pharmacy
+Rajaram Shinde Degree College of Architecture
+Guru Ghasidas Vishwavidyalaya - [GGU]
+Aditya College of Pharmacy and Science
+Doon Business School - [DBS]
+KD College of Commerce & General Studies
+St Aloysius Institute of Management and Information Technology - [AIMIT]
+National Institute of Food Technology Entrepreneurship and Management - [NIFTEM]
+Bapuraoji Deshmukh Degree College of Architecture
+GRG School of Management Studies - [GRGSMS]
+Faculty of Pharmaceutical Sciences, Shoolini University
+Sona School of Management
+Agriculture and Food Management Institute - [AFMI]
+SD College of Pharmacy and Vocational studies
+Central Institute for Subtropical Horticulture - [CISH]
+DJ Academy for Managerial Excellence - [DJAME]
+Lexicon MILE - Management Institute of Leadership and Excellence
+Sri Jayachamarajendra College of Engineering - [SJCE]
+Jaypee University of Information Technology - [JUIT]
+Cochin University of Science and Technology, School of Engineering -[SOE] Thrikkakara
+University Institute of Engineering, Chandigarh University - [UIE]
+School of Engineering and Technology, NCU - [SOET]
+DAV College - [DAV]
+Dr Balasaheb Sawant Konkan Krishi Vidyapeeth - [DBSKKV]
+Prestige Institute of Management - [PIM]
+DAV Velankar College of Commerce
+ICFAI Business School - [IBS]
+Sardar Vallabhbhai Patel International School of Textile & Management- [SVPISTM]
+DAVV Mateshwari Sugni Devi Girls College
+Atharva Institute of Management Studies - [AIMS]
+SCMS School of Technology and Management - [SSTM]
+Nirmalagiri College
+Lovely Professional University - [LPU]
+St. Joseph College Of Engineering
+Magadh Mahila College
+Mewar University - [MU]
+Chandigarh Business School of Administration - [CBSA] Landran
+Shobhit University, School of Business Studies
+Teerthanker Mahaveer Institute of Management and Technology - [TMIMT]
+Tolani College of Commerce - [TCC]
+Alkesh Dinesh Mody Institute for Financial and Management Studies
+Karunya School of Management, Karunya University - [KSM]
+ICFAI Business School - [IBS]
+Saveetha Engineering College - [SEC]
+Sri Sairam Engineering College
+Veer Surendra Sai University of Technology - [VSSUT]
+Dayananda Sagar College of Engineering - [DSCE]
+NMAM Institute of Technology - [NMAMIT]
+Coimbatore Institute of Management and Technology - [CIMAT]
+Guru Jambheshwar University of Science and Technology - [GJUS&T]
+ITM Business School
+Roland Institute of Pharmaceutical Sciences - [RIPS]
+DC School of Management and Technology - [DCSMAT] Vagamon
+IBMR Business School
+Sasmira's Institute of Management Studies and Research - [SIMSR]
+Institute of Agri Business Management - [IABM]
+SNS College of Technology - [SNSCT]
+National Institute of Technology - [NIT]
+Bharathidasan Government College for Women - [BGCW]
+Bengaluru Law College
+Central Food Technological Research Institute - [CFTRI]
+Lloyd Business School -[LBS]
+Sandip Institute of Technology and Research Center - [SITRC]
+Adarsh Institute of Management and Information Technology - [AIMIT]
+Tirupati Institute of Professional Studies - [TIPS]
+Uttar Banga Krishi Vishwavidyalaya - [UBKV]
+CVR College of Engineering, Ibrahimpatnam
+Yeshwantrao Chavan College of Engineering - [YCCE]
+Institute of Technology, Nirma University
